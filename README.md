@@ -1,4 +1,4 @@
-## Final Project of the course CEBD 1261
+## CEBD 1261 - Final Project
 
 Montreal's traffic collisions - Supervised machine learning: classification
 
